@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitguy007&label=Profile%20views&color=0e75b6&style=flat" alt="gitguy007" /> </p>
 
-- 🔭 I’m currently working on **AI, ML, Vision, Dotnet projects**
+- 🔭 I’m currently working on **AI, ML, Vision, Dotnet, DevOps projects**
 
 - 🌱 I’m currently learning **everything AI and more**
 
-- 👯 I’m looking to collaborate on **AI, ML, Vision, Dotnet projects**
+- 👯 I’m looking to collaborate on **AI, ML, Vision, Dotnet, DevOps projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gitguy007](https://github.com/gitguy007)
 
